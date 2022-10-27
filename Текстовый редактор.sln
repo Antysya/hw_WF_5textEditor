@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Текстовый редактор", "Текстовый редактор\Текстовый редактор.csproj", "{2D15DF40-6DF8-49CE-B417-25F47BC682A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D15DF40-6DF8-49CE-B417-25F47BC682A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D15DF40-6DF8-49CE-B417-25F47BC682A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D15DF40-6DF8-49CE-B417-25F47BC682A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D15DF40-6DF8-49CE-B417-25F47BC682A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089C2F84-CF11-4FE4-8196-2F34A7CCEECE}
+	EndGlobalSection
+EndGlobal
